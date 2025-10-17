@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Real-Time Voice Translator (RTVT)</h1>
+<h1 align="center">🌍 Voice Bridge(RTVT)</h1>
 <p align="center"><b>Instant, Intelligent, and Emotion-Preserved Speech Translation Across Languages</b></p>
 <hr>
 
